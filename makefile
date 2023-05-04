@@ -1,0 +1,2 @@
+main:
+	open index.html
